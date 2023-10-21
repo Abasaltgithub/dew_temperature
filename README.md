@@ -7,6 +7,16 @@ This repository contains code for simulating the minimum dew temperature. Dew te
 Td = c * (ln(RH/100) + ((b * T) / (c + T))) / (b - ln(RH/100) - ((b * T) / (c + T))
 
 
+Where:
+- `Td` is the dew point temperature (in °C).
+- `T` is the air temperature (in °C).
+- `RH` is the relative humidity (in %).
+- `a`, `b`, and `c` are constants:
+  - `a = 6.112`
+  - `b = 17.62`
+  - `c = 243.12`
+
+This formula calculates the minimum dew point temperature, a critical meteorological parameter representing the temperature at which air becomes saturated with moisture, leading to condensation.
 
 
 

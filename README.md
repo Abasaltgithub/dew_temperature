@@ -22,13 +22,13 @@ To get started with this simulation, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/minimum-dew-temperature-simulation.git
+   git clone https://github.com/Abasaltgithub/dew_temperature.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd minimum-dew-temperature-simulation
+   cd dew_temperature
    ```
 
 3. Ensure you have Python installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
@@ -47,7 +47,7 @@ You can use the minimum dew temperature simulation by running the Python script 
 3. Run the script:
 
    ```shell
-   python minimum_dew_temperature.py
+   python dew_temperature.py
    ```
 
 The script will calculate and display the minimum dew temperature based on the provided input.

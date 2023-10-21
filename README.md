@@ -2,6 +2,22 @@
 
 This repository contains code for simulating the minimum dew temperature. Dew temperature, or dew point, is a crucial meteorological parameter that represents the temperature at which air becomes saturated with moisture and condensation forms. This simulation can be useful in various fields, including meteorology, agriculture, and HVAC systems.
 
+
+
+
+
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [References](#references)
+
+## Overview
+
+The minimum dew temperature simulation is a fundamental tool for understanding moisture levels in the atmosphere. This repository provides a Python-based implementation to calculate the minimum dew temperature. By specifying air temperature and relative humidity, you can determine the temperature at which condensation will occur.
+
 <img src="MinT_RH.png" width="600">
 
 $$
@@ -20,20 +36,6 @@ Where:
   - `c = 243.12`
 
 This formula calculates the minimum dew point temperature, a critical meteorological parameter representing the temperature at which air becomes saturated with moisture, leading to condensation.
-
-
-
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [References](#references)
-
-## Overview
-
-The minimum dew temperature simulation is a fundamental tool for understanding moisture levels in the atmosphere. This repository provides a Python-based implementation to calculate the minimum dew temperature. By specifying air temperature and relative humidity, you can determine the temperature at which condensation will occur.
 
 ## Getting Started
 

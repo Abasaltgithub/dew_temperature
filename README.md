@@ -27,7 +27,7 @@ $$
 
 
 Where:
-- `Td$$<sub>d</sub>$$` is the dew point temperature (in °C).
+- `<code>T<sub>d</sub></code>` is the dew point temperature (in °C).
 - `T` is the air temperature (in °C).
 - `RH` is the relative humidity (in %).
 - `a`, `b`, and `c` are constants:

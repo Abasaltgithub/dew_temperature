@@ -2,6 +2,8 @@
 
 This repository contains code for simulating the minimum dew temperature. Dew temperature, or dew point, is a crucial meteorological parameter that represents the temperature at which air becomes saturated with moisture and condensation forms. This simulation can be useful in various fields, including meteorology, agriculture, and HVAC systems.
 
+<img src="MinT_RH.png" width="600">
+
 ## Dew Point Temperature Calculation
 
 The dew point temperature can be calculated using the following formula:
@@ -10,7 +12,7 @@ The dew point temperature can be calculated using the following formula:
 Td = c * (ln(RH/100) + ((b * T) / (c + T))) / (b - ln(RH/100) - ((b * T) / (c + T)))
 
 
-<img src="MinT_RH.png" width="600">
+
 
 ## Table of Contents
 

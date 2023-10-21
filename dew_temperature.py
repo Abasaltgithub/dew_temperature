@@ -58,7 +58,7 @@ plt.legend(loc='best')
 plt.tight_layout()
 
 # Save the figure
-output_image_path = 'MinT_RH.pdf'
+output_image_path = 'MinT_RH.png'
 plt.savefig(output_image_path, bbox_inches='tight', dpi=500)
 
 # Show the combined figure

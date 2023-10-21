@@ -4,7 +4,10 @@ This repository contains code for simulating the minimum dew temperature. Dew te
 
 <img src="MinT_RH.png" width="600">
 
-Td = c * (ln(RH/100) + ((b * T) / (c + T))) / (b - ln(RH/100) - ((b * T) / (c + T))
+$$
+T_d = \frac{c \left( \ln\left(\frac{RH}{100}\right) + \frac{bT}{c+T} \right)}{b - \ln\left(\frac{RH}{100}\right) - \frac{bT}{c+T}}
+$$
+
 
 
 Where:

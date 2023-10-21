@@ -1,5 +1,3 @@
-Certainly! Here's a sample README for your GitHub repository where you simulate the minimum dew temperature:
-
 # Minimum Dew Temperature Simulation
 
 This repository contains code for simulating the minimum dew temperature. Dew temperature, or dew point, is a crucial meteorological parameter that represents the temperature at which air becomes saturated with moisture and condensation forms. This simulation can be useful in various fields, including meteorology, agriculture, and HVAC systems.

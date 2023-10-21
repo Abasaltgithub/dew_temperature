@@ -4,12 +4,9 @@ This repository contains code for simulating the minimum dew temperature. Dew te
 
 <img src="MinT_RH.png" width="600">
 
-## Dew Point Temperature Calculation
+Td = c * (ln(RH/100) + ((b * T) / (c + T))) / (b - ln(RH/100) - ((b * T) / (c + T))
 
-The dew point temperature can be calculated using the following formula:
 
-```math
-Td = c * (ln(RH/100) + ((b * T) / (c + T))) / (b - ln(RH/100) - ((b * T) / (c + T)))
 
 
 
